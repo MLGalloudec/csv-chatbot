@@ -60,8 +60,7 @@ psutil==5.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==13.0.0
-pydantic==2.3.0
-pydantic_core==2.6.3
+pydantic==1.10.12
 pydeck==0.8.1b0
 Pygments==2.16.1
 pygpt4all==1.1.0
